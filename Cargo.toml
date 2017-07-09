@@ -1,0 +1,7 @@
+[package]
+name = "rewriter"
+version = "0.1.0"
+authors = ["mvoronin <mvoronin.ru@gmail.com>"]
+
+[dependencies]
+clap="2.25.0"
